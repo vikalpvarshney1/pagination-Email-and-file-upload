@@ -1,0 +1,7 @@
+ mongoimport --jsonArray --db book --collection book --file F:\user.json
+
+
+  mongoimport --jsonArray --db user --collection user --file F:\user.json
+
+npm install --save multer
+ 
